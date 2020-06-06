@@ -1,0 +1,4 @@
+﻿  1.1.cpp
+C:\Users\Admin\Documents\Visual Studio 2019\1.1\1.1\money.h(30,26): warning C4244:  =: преобразование "float" в "unsigned char", возможна потеря данных
+C:\Users\Admin\Documents\Visual Studio 2019\1.1\1.1\money.h(44,13): warning C4244:  инициализация: преобразование "float" в "int", возможна потеря данных
+  1.1.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2019\1.1\Debug\1.1.exe
